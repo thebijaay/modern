@@ -20,8 +20,8 @@ const Home = () => {
             exit="hidden"
             className="h1"
           >
-            Transforming Ideas <br /> Into{" "}
-            <span className="text-accent">Digital Reality</span>
+            Building Smart <br />{" "}
+            <span className="text-accent">Digital Solutions</span>
           </motion.h1>
 
           {/* subtitle */}
@@ -32,10 +32,10 @@ const Home = () => {
             exit="hidden"
             className="max-w-sm xl:max-w-xl mx-auto xl:mx-0 mb-10 xl:mb-16"
           >
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate,
-            exercitationem harum, quia nulla temporibus deleniti libero veniam
-            vero beatae numquam ducimus illum ab similique ipsam tempore fugit
-            quod laudantium debitis.
+            Welcome to <strong>jayprasad.com.np</strong> — providing reliable IT
+            support, web solutions, digital consulting, and technology-driven
+            services. We also deliver curated football news and updates,
+            combining technology with real-world insights.
           </motion.p>
 
           {/* btn */}
@@ -53,6 +53,7 @@ const Home = () => {
           </motion.div>
         </div>
       </div>
+
       {/* image */}
       <div className="w-[1280px] h-full absolute right-0 bottom-0">
         {/* bg img */}
